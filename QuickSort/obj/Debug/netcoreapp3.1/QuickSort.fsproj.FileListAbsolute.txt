@@ -1,0 +1,8 @@
+C:\Users\Home\source\repos\Homework\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Home\source\repos\Homework\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Home\source\repos\Homework\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Home\source\repos\Homework\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.fsprojAssemblyReference.cache
+C:\Users\Home\source\repos\Homework\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Homework\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.fs
+C:\Users\Home\source\repos\Homework\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Home\source\repos\Homework\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb

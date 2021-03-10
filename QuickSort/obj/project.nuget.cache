@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "44auX5Bjb1KLXT9lcTydpWhe8zV9jcYq0BynDRLNouCZnc136ePAv89/i3+OUuuGORqAfoTiAsBCBIZ23TD/5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\source\\repos\\Homework\\QuickSort\\QuickSort.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
